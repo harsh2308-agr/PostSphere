@@ -50,9 +50,7 @@ Spring Boot
 
 Spring Security
 
-Spring Data JPA (Hibernate)
-
-MySQL
+Spring Data JPA (Hibernate
 
 HTML, CSS, Bootstrap
 
